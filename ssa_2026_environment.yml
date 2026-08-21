@@ -1,0 +1,13 @@
+name: ssa_2026
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - obspy=1.4.2
+  - setuptools=80.9.0
+  - eqcorrscan=0.5.0
+  - obsplus
+  - tqdm
+  - folium
+  - ipykernel
